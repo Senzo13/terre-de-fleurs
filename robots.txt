@@ -1,0 +1,3 @@
+# Préproduction : ne pas indexer (voir deploy.config.mjs)
+User-agent: *
+Disallow: /

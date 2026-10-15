@@ -1,0 +1,22 @@
+{
+  "name": "Terre de Fleurs",
+  "short_name": "Terre de Fleurs",
+  "lang": "fr-CH",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#F5F1E8",
+  "theme_color": "#263F35",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
